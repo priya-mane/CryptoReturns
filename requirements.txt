@@ -7,3 +7,4 @@ websockets
 asyncio
 requests
 pyarrow
+ipykernel
