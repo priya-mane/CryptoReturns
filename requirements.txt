@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+websockets
+asyncio
+requests
+pyarrow
+ipykernel
