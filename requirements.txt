@@ -8,3 +8,4 @@ asyncio
 requests
 pyarrow
 ipykernel
+statsmodels
